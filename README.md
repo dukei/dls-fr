@@ -1,6 +1,6 @@
 # dls-fr
 
-Подготовка датасета для поиска ключевых точек (улучшение рамок, подбор примеров, обрезка)
+1. Подготовка датасета для поиска ключевых точек (улучшение рамок, подбор примеров, обрезка)
 
 https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR-1_PrepareDataset.ipynb
 
@@ -8,10 +8,14 @@ https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR
 
 https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR-1_FaceAlignment.ipynb
 
-Переподготовка датасета для распознавания
+2. Переподготовка датасета для распознавания
 
 https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR-2_PrepareDataset.ipynb
 
 Обучение распознавания лиц
 
 https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR-2_ArcFace.ipynb
+
+3. Пайплайн распознавания
+
+https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR-3_RecognitionPipeline.ipynb
