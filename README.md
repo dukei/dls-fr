@@ -19,3 +19,8 @@ https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR
 3. Пайплайн распознавания
 
 https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR-3_RecognitionPipeline.ipynb
+
+
+Доп 1. Identification rate
+
+https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR-1_dop_Identification_Rate_Metric.ipynb
