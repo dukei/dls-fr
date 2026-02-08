@@ -24,3 +24,5 @@ https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR
 Доп 1. Identification rate
 
 https://colab.research.google.com/github/dukei/dls-fr/blob/master/DLS-project-FR-1_dop_Identification_Rate_Metric.ipynb
+
+Дополнительные файлы и сохраненные модели, которые могут пригодиться при воспроизведении ноутбуков: https://disk.yandex.ru/d/uQqPdhugjDmURw
